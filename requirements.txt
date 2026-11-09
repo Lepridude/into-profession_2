@@ -1,0 +1,6 @@
+jupyter
+ipykernel
+langchain-gigachat
+pandas
+pydantic
+python-dotenv
